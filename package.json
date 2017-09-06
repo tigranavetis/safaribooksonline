@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tigranavetis/safaribooksonline-video-downloader.git"
+    "url": "git+https://github.com/tigranavetis/safaribooksonline.git"
   },
   "author": "Tigran Avetisyan",
   "license": "MIT",
