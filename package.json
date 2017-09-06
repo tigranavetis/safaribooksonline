@@ -1,0 +1,21 @@
+{
+  "name": "download-safari",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "npx nodemon --max-old-space-size=8192 main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tigranavetis/safaribooksonline-video-downloader.git"
+  },
+  "author": "Tigran Avetisyan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tigranavetis/safaribooksonline-video-downloader/issues"
+  },
+  "homepage": "https://github.com/tigranavetis/safaribooksonline-video-downloader#readme"
+}
